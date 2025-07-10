@@ -26,20 +26,16 @@ Suggest data-backed strategies to minimize attrition and improve employee satisf
 
 ## Project Structure
 
-**HR_Analytics_Python_Project**/
-│
-├── README.md → Project Documentation
-├── data/
-│ └── HR_Attrition.csv → HR Employee Dataset
-│
-├── notebooks/
-│ └── HR_Analytics.ipynb → Main Analysis & Visualizations Notebook
-│
-├── output/
-│ └── graphs/ → Saved Graphs & Visual Output
-│
-├── report/
-│ └── HR_Attrition_Report.pdf → Final Business Report
+HR_Analytics_Python_Project/  
+├── README.md                     → Project Documentation  
+├── data/  
+│   └── HR_Attrition.csv          → HR Employee Dataset  
+├── notebooks/  
+│   └── HR_Analytics.ipynb        → Main Analysis & Visualizations  
+├── output/  
+│   └── graphs/                   → Saved Graphs (optional, not uploaded)  
+├── report/  
+│   └── HR_Attrition_Report.pdf   → Final Business Report  
 
 
 ---
