@@ -55,12 +55,12 @@ The dataset contains detailed employee information from a hypothetical organizat
 
 ## Key Insights from Analysis
 
-🔹 Higher attrition rates observed in the Sales department and among low-income employees  
-🔹 Female employees showed slightly higher attrition compared to males  
-🔹 Employees with poor Work-Life Balance are significantly more likely to resign  
-🔹 Low Job Satisfaction correlates directly with higher attrition  
-🔹 Employees in lower job levels and with fewer working years are at greater risk of leaving  
-🔹 Certain education fields and job roles show higher turnover trends
+- Higher attrition rates observed in the Sales department and among low-income employees  
+- Female employees showed slightly higher attrition compared to males  
+- Employees with poor Work-Life Balance are significantly more likely to resign  
+- Low Job Satisfaction correlates directly with higher attrition  
+- Employees in lower job levels and with fewer working years are at greater risk of leaving  
+- Certain education fields and job roles show higher turnover trends
 
 ---
 ## Conclusion & Recommendations
